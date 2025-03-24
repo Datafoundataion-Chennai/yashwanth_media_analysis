@@ -1,0 +1,6 @@
+requests
+pandas
+matplotlib
+google-cloud-bigquery
+streamlit
+pytest
