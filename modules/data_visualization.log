@@ -1,0 +1,4270 @@
+2025-03-23 16:36:25,151 - INFO - Loading YouTube data from BigQuery
+2025-03-23 16:36:29,326 - INFO - Loading News data from BigQuery
+2025-03-23 16:36:42,938 - INFO - Dashboard Loaded
+2025-03-23 16:36:42,941 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 16:36:42,954 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 16:36:42,971 - INFO - News Category Filter Selected: All
+2025-03-23 16:36:42,979 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 16:36:43,232 - INFO - Displaying paginated YouTube data
+2025-03-23 16:36:43,803 - INFO - Displaying paginated News data
+2025-03-23 16:36:44,642 - INFO - Dashboard execution completed
+2025-03-23 16:40:58,722 - INFO - Dashboard Loaded
+2025-03-23 16:40:58,724 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 16:40:58,727 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 16:40:58,740 - INFO - News Category Filter Selected: All
+2025-03-23 16:40:58,741 - INFO - News Date Range: None to 2022-09-23
+2025-03-23 16:40:58,909 - INFO - Displaying paginated YouTube data
+2025-03-23 16:40:59,357 - INFO - Displaying paginated News data
+2025-03-23 16:40:59,508 - INFO - Dashboard execution completed
+2025-03-23 16:41:10,143 - INFO - Dashboard Loaded
+2025-03-23 16:41:10,143 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 16:41:10,152 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 16:41:10,175 - INFO - News Category Filter Selected: All
+2025-03-23 16:41:10,180 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 16:41:10,448 - INFO - Displaying paginated YouTube data
+2025-03-23 16:41:10,920 - INFO - Displaying paginated News data
+2025-03-23 16:41:11,953 - INFO - Dashboard execution completed
+2025-03-23 16:41:19,927 - INFO - Dashboard Loaded
+2025-03-23 16:41:19,931 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 16:41:19,935 - INFO - YouTube Date Range: None to 2025-03-20
+2025-03-23 16:41:19,944 - INFO - News Category Filter Selected: All
+2025-03-23 16:41:19,947 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 16:41:20,262 - INFO - Displaying paginated YouTube data
+2025-03-23 16:41:20,683 - INFO - Displaying paginated News data
+2025-03-23 16:41:21,495 - INFO - Dashboard execution completed
+2025-03-23 16:41:26,858 - INFO - Dashboard Loaded
+2025-03-23 16:41:26,869 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 16:41:26,872 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 16:41:26,886 - INFO - News Category Filter Selected: All
+2025-03-23 16:41:26,891 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 16:41:27,131 - INFO - Displaying paginated YouTube data
+2025-03-23 16:41:27,624 - INFO - Displaying paginated News data
+2025-03-23 16:41:28,623 - INFO - Dashboard execution completed
+2025-03-23 17:40:50,226 - INFO - Loading YouTube data from BigQuery
+2025-03-23 17:40:55,804 - INFO - Loading News data from BigQuery
+2025-03-23 17:41:14,981 - INFO - Dashboard Loaded
+2025-03-23 17:41:14,981 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 17:41:14,998 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 17:41:15,005 - INFO - News Category Filter Selected: All
+2025-03-23 17:41:15,014 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 17:41:15,203 - INFO - Displaying paginated YouTube data
+2025-03-23 17:41:15,552 - INFO - Displaying paginated News data
+2025-03-23 17:41:16,298 - INFO - Dashboard execution completed
+2025-03-23 17:42:37,410 - INFO - Dashboard Loaded
+2025-03-23 17:42:37,410 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 17:42:37,410 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 17:42:37,431 - INFO - News Category Filter Selected: All
+2025-03-23 17:42:37,434 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 17:42:37,637 - INFO - Displaying paginated YouTube data
+2025-03-23 17:42:37,940 - INFO - Displaying paginated News data
+2025-03-23 17:42:38,523 - INFO - Dashboard execution completed
+2025-03-23 19:17:26,565 - INFO - Loading YouTube data from BigQuery
+2025-03-23 19:17:29,448 - INFO - Loading News data from BigQuery
+2025-03-23 19:17:51,097 - INFO - Dashboard Loaded
+2025-03-23 19:17:51,102 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 19:17:51,111 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 19:17:51,126 - INFO - News Category Filter Selected: All
+2025-03-23 19:17:51,130 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 19:17:51,360 - INFO - Displaying paginated YouTube data
+2025-03-23 19:17:52,041 - INFO - Displaying paginated News data
+2025-03-23 19:17:53,125 - INFO - Dashboard execution completed
+2025-03-23 19:26:03,238 - INFO - Dashboard Loaded
+2025-03-23 19:26:03,242 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 19:26:03,245 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 19:26:03,252 - INFO - News Category Filter Selected: All
+2025-03-23 19:26:03,259 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 19:26:03,473 - INFO - Displaying paginated YouTube data
+2025-03-23 19:26:03,475 - INFO - Navigated to next YouTube page
+2025-03-23 19:26:04,545 - INFO - Dashboard Loaded
+2025-03-23 19:26:04,548 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 19:26:04,548 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 19:26:04,562 - INFO - News Category Filter Selected: All
+2025-03-23 19:26:04,566 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 19:26:04,726 - INFO - Displaying paginated YouTube data
+2025-03-23 19:26:05,024 - INFO - Displaying paginated News data
+2025-03-23 19:26:05,652 - INFO - Dashboard execution completed
+2025-03-23 19:26:16,935 - INFO - Dashboard Loaded
+2025-03-23 19:26:16,941 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 19:26:16,943 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 19:26:16,952 - INFO - News Category Filter Selected: All
+2025-03-23 19:26:16,952 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 19:26:17,116 - INFO - Displaying paginated YouTube data
+2025-03-23 19:26:17,118 - INFO - Navigated to next YouTube page
+2025-03-23 19:26:18,081 - INFO - Dashboard Loaded
+2025-03-23 19:26:18,089 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 19:26:18,090 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 19:26:18,099 - INFO - News Category Filter Selected: All
+2025-03-23 19:26:18,099 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 19:26:18,283 - INFO - Displaying paginated YouTube data
+2025-03-23 19:26:18,616 - INFO - Displaying paginated News data
+2025-03-23 19:26:19,107 - INFO - Dashboard execution completed
+2025-03-23 22:11:26,633 - INFO - Loading YouTube data from BigQuery
+2025-03-23 22:11:29,320 - INFO - Loading News data from BigQuery
+2025-03-23 22:11:55,867 - INFO - Dashboard Loaded
+2025-03-23 22:11:55,881 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 22:11:55,891 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 22:11:55,897 - ERROR - Error in YouTube filters: 'dislikes'
+2025-03-23 22:19:51,155 - INFO - Loading YouTube data from BigQuery
+2025-03-23 22:20:25,855 - INFO - Loading News data from BigQuery
+2025-03-23 22:20:52,413 - INFO - Dashboard Loaded
+2025-03-23 22:20:52,417 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 22:20:52,422 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 22:20:52,502 - INFO - News Category Filter Selected: All
+2025-03-23 22:20:52,506 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 22:20:52,510 - ERROR - Error in News filters: 'source'
+2025-03-23 22:22:07,575 - INFO - Loading YouTube data from BigQuery
+2025-03-23 22:22:12,611 - INFO - Loading News data from BigQuery
+2025-03-23 22:24:00,294 - INFO - Dashboard Loaded
+2025-03-23 22:24:00,303 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 22:24:00,307 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 22:24:00,314 - INFO - News Category Filter Selected: All
+2025-03-23 22:24:00,322 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 22:24:00,673 - INFO - Displaying paginated YouTube data
+2025-03-23 22:24:01,151 - INFO - Displaying paginated News data
+2025-03-23 22:24:01,975 - INFO - Dashboard execution completed
+2025-03-23 22:49:06,717 - INFO - Loading YouTube data from BigQuery
+2025-03-23 22:49:09,680 - INFO - Loading News data from BigQuery
+2025-03-23 22:49:25,635 - INFO - Dashboard Loaded
+2025-03-23 22:49:25,644 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 22:49:25,652 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 22:49:25,698 - INFO - News Category Filter Selected: All
+2025-03-23 22:49:25,702 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 22:49:25,702 - ERROR - Error in News filters: 'source'
+2025-03-23 23:07:28,692 - INFO - Loading YouTube data from BigQuery
+2025-03-23 23:07:31,246 - INFO - Loading News data from BigQuery
+2025-03-23 23:07:44,942 - INFO - Dashboard Loaded
+2025-03-23 23:07:44,952 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 23:07:44,966 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 23:07:45,007 - INFO - News Category Filter Selected: All
+2025-03-23 23:07:45,013 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 23:07:45,014 - ERROR - Error in News filters: 'source'
+2025-03-23 23:08:17,282 - INFO - Loading YouTube data from BigQuery
+2025-03-23 23:08:20,272 - INFO - Loading News data from BigQuery
+2025-03-23 23:08:34,545 - INFO - Dashboard Loaded
+2025-03-23 23:08:34,545 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 23:08:34,552 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 23:08:34,574 - INFO - News Category Filter Selected: All
+2025-03-23 23:08:34,582 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 23:08:34,840 - INFO - Displaying paginated YouTube data
+2025-03-23 23:08:35,352 - INFO - Displaying paginated News data
+2025-03-23 23:08:36,385 - INFO - Dashboard execution completed
+2025-03-23 23:18:15,816 - INFO - Loading YouTube data from BigQuery
+2025-03-23 23:18:20,058 - INFO - Loading News data from BigQuery
+2025-03-23 23:18:57,801 - INFO - Dashboard Loaded
+2025-03-23 23:18:57,801 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 23:18:57,811 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 23:18:57,821 - INFO - News Category Filter Selected: All
+2025-03-23 23:18:57,826 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 23:18:57,826 - ERROR - Error in News visualizations: name 'filtered_news' is not defined
+2025-03-23 23:18:57,826 - INFO - Dashboard execution completed
+2025-03-23 23:20:12,351 - INFO - Loading YouTube data from BigQuery
+2025-03-23 23:20:15,636 - INFO - Loading News data from BigQuery
+2025-03-23 23:20:40,608 - INFO - Dashboard Loaded
+2025-03-23 23:20:40,613 - INFO - YouTube Channel Filter Selected: All
+2025-03-23 23:20:40,617 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 23:20:40,646 - INFO - News Category Filter Selected: All
+2025-03-23 23:20:40,654 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 23:20:41,056 - INFO - Displaying paginated YouTube data
+2025-03-23 23:20:41,808 - INFO - Displaying paginated News data
+2025-03-23 23:20:42,838 - INFO - Dashboard execution completed
+2025-03-23 23:29:02,229 - INFO - Dashboard Loaded
+2025-03-23 23:29:02,237 - INFO - YouTube Channel Filter Selected: V6 News
+2025-03-23 23:29:02,242 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-23 23:29:02,254 - INFO - News Category Filter Selected: All
+2025-03-23 23:29:02,258 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-23 23:29:02,583 - INFO - Displaying paginated YouTube data
+2025-03-23 23:29:02,939 - INFO - Displaying paginated News data
+2025-03-23 23:29:03,879 - INFO - Dashboard execution completed
+2025-03-24 01:02:59,504 - INFO - Loading YouTube data from BigQuery
+2025-03-24 01:03:05,884 - INFO - Loading News data from BigQuery
+2025-03-24 01:03:23,002 - INFO - Dashboard Loaded
+2025-03-24 01:03:23,002 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:03:23,007 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:03:23,016 - INFO - News Category Filter Selected: All
+2025-03-24 01:03:23,016 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:03:23,218 - INFO - Displaying paginated YouTube data
+2025-03-24 01:03:23,582 - INFO - Displaying paginated News data
+2025-03-24 01:03:23,965 - INFO - Dashboard execution completed
+2025-03-24 01:04:06,084 - INFO - Dashboard Loaded
+2025-03-24 01:04:06,088 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:04:06,090 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:04:06,098 - INFO - News Category Filter Selected: All
+2025-03-24 01:04:06,098 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:04:06,281 - INFO - Displaying paginated YouTube data
+2025-03-24 01:04:06,631 - INFO - Displaying paginated News data
+2025-03-24 01:04:07,144 - INFO - Dashboard execution completed
+2025-03-24 01:04:22,316 - INFO - Dashboard Loaded
+2025-03-24 01:04:22,321 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:04:22,322 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:04:22,333 - INFO - News Category Filter Selected: All
+2025-03-24 01:04:22,333 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:04:22,492 - INFO - Displaying paginated YouTube data
+2025-03-24 01:04:22,792 - INFO - Displaying paginated News data
+2025-03-24 01:04:23,323 - INFO - Dashboard execution completed
+2025-03-24 01:08:50,281 - INFO - Dashboard Loaded
+2025-03-24 01:08:50,287 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:08:50,289 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:08:50,298 - INFO - News Category Filter Selected: All
+2025-03-24 01:08:50,298 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:08:50,446 - INFO - Displaying paginated YouTube data
+2025-03-24 01:08:51,728 - INFO - Dashboard Loaded
+2025-03-24 01:08:51,733 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:08:51,734 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:08:51,745 - INFO - News Category Filter Selected: College
+2025-03-24 01:08:51,749 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:08:51,902 - INFO - Displaying paginated YouTube data
+2025-03-24 01:08:52,171 - INFO - Displaying paginated News data
+2025-03-24 01:08:52,376 - INFO - Dashboard execution completed
+2025-03-24 01:09:02,407 - INFO - Dashboard Loaded
+2025-03-24 01:09:02,412 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:09:02,415 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:09:02,431 - INFO - News Category Filter Selected: All
+2025-03-24 01:09:02,436 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:09:02,593 - INFO - Displaying paginated YouTube data
+2025-03-24 01:09:02,902 - INFO - Displaying paginated News data
+2025-03-24 01:09:03,393 - INFO - Dashboard execution completed
+2025-03-24 01:09:17,904 - INFO - Dashboard Loaded
+2025-03-24 01:09:17,916 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:09:17,919 - INFO - YouTube Date Range: 2018-03-31 to None
+2025-03-24 01:09:17,926 - INFO - News Category Filter Selected: All
+2025-03-24 01:09:17,936 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:09:18,083 - INFO - Displaying paginated YouTube data
+2025-03-24 01:09:18,297 - INFO - Displaying paginated News data
+2025-03-24 01:09:18,769 - INFO - Dashboard execution completed
+2025-03-24 01:09:22,882 - INFO - Dashboard Loaded
+2025-03-24 01:09:22,882 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 01:09:22,892 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 01:09:22,902 - INFO - News Category Filter Selected: All
+2025-03-24 01:09:22,902 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 01:09:23,077 - INFO - Displaying paginated YouTube data
+2025-03-24 01:09:23,404 - INFO - Displaying paginated News data
+2025-03-24 01:09:23,914 - INFO - Dashboard execution completed
+2025-03-24 09:42:40,635 - INFO - Loading YouTube data from BigQuery
+2025-03-24 09:42:40,866 - ERROR - Error loading YouTube data: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-03-24 09:42:40,885 - INFO - Loading News data from BigQuery
+2025-03-24 09:42:41,002 - ERROR - Error loading News data: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-03-24 09:42:41,004 - ERROR - Error converting date columns: 'publish_time'
+2025-03-24 09:45:49,482 - ERROR - Error converting date columns: 'publish_time'
+2025-03-24 09:46:15,605 - INFO - Loading YouTube data from BigQuery
+2025-03-24 09:46:15,820 - ERROR - Error loading YouTube data: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-03-24 09:46:15,849 - INFO - Loading News data from BigQuery
+2025-03-24 09:46:15,970 - ERROR - Error loading News data: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-03-24 09:46:15,976 - ERROR - Error converting date columns: 'publish_time'
+2025-03-24 09:54:01,482 - INFO - Loading YouTube data from BigQuery
+2025-03-24 09:54:01,653 - ERROR - Error loading YouTube data: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-03-24 09:54:01,659 - INFO - Loading News data from BigQuery
+2025-03-24 09:54:01,763 - ERROR - Error loading News data: ('invalid_grant: Invalid JWT Signature.', {'error': 'invalid_grant', 'error_description': 'Invalid JWT Signature.'})
+2025-03-24 09:54:01,765 - ERROR - Error converting date columns: 'publish_time'
+2025-03-24 10:08:59,941 - INFO - Loading YouTube data from BigQuery
+2025-03-24 10:09:03,830 - INFO - Loading News data from BigQuery
+2025-03-24 10:09:18,813 - INFO - Dashboard Loaded
+2025-03-24 10:09:18,817 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 10:09:18,828 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 10:09:18,841 - INFO - News Category Filter Selected: All
+2025-03-24 10:09:18,847 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 10:09:19,103 - INFO - Displaying paginated YouTube data
+2025-03-24 10:09:19,779 - INFO - Displaying paginated News data
+2025-03-24 10:09:20,504 - INFO - Dashboard execution completed
+2025-03-24 10:37:24,840 - INFO - Loading YouTube data from BigQuery
+2025-03-24 10:37:31,593 - INFO - Loading News data from BigQuery
+2025-03-24 10:39:06,462 - INFO - Dashboard Loaded
+2025-03-24 10:39:06,465 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 10:39:06,470 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 10:39:06,481 - INFO - News Category Filter Selected: All
+2025-03-24 10:39:06,487 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 10:39:06,718 - INFO - Displaying paginated YouTube data
+2025-03-24 10:39:07,366 - INFO - Displaying paginated News data
+2025-03-24 10:39:08,478 - INFO - Dashboard execution completed
+2025-03-24 10:40:53,615 - INFO - Dashboard Loaded
+2025-03-24 10:40:53,617 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 10:40:53,619 - INFO - YouTube Date Range: 2018-03-14 to 2025-03-20
+2025-03-24 10:40:53,631 - INFO - News Category Filter Selected: All
+2025-03-24 10:40:53,635 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 10:40:53,803 - INFO - Displaying paginated YouTube data
+2025-03-24 10:40:54,186 - INFO - Displaying paginated News data
+2025-03-24 10:40:54,623 - INFO - Dashboard execution completed
+2025-03-24 10:41:02,346 - INFO - Dashboard Loaded
+2025-03-24 10:41:02,347 - INFO - YouTube Channel Filter Selected: TV5 News
+2025-03-24 10:41:02,352 - INFO - YouTube Date Range: 2018-03-14 to 2025-03-20
+2025-03-24 10:41:02,363 - INFO - News Category Filter Selected: All
+2025-03-24 10:41:02,368 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 10:41:02,589 - INFO - Displaying paginated YouTube data
+2025-03-24 10:41:02,822 - INFO - Displaying paginated News data
+2025-03-24 10:41:03,253 - INFO - Dashboard execution completed
+2025-03-24 10:41:14,836 - INFO - Dashboard Loaded
+2025-03-24 10:41:14,840 - INFO - YouTube Channel Filter Selected: TV5 News
+2025-03-24 10:41:14,843 - INFO - YouTube Date Range: 2018-03-14 to 2025-03-20
+2025-03-24 10:41:14,855 - INFO - News Category Filter Selected: All
+2025-03-24 10:41:14,858 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 10:41:15,021 - INFO - Displaying paginated YouTube data
+2025-03-24 10:41:15,261 - INFO - Displaying paginated News data
+2025-03-24 10:41:15,669 - INFO - Dashboard execution completed
+2025-03-24 10:41:32,879 - INFO - Dashboard Loaded
+2025-03-24 10:41:32,880 - INFO - YouTube Channel Filter Selected: TV5 News
+2025-03-24 10:41:32,882 - INFO - YouTube Date Range: 2018-03-14 to 2025-03-20
+2025-03-24 10:41:32,895 - INFO - News Category Filter Selected: Business
+2025-03-24 10:41:32,898 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 10:41:33,109 - INFO - Displaying paginated YouTube data
+2025-03-24 10:41:33,336 - INFO - Displaying paginated News data
+2025-03-24 10:41:33,665 - INFO - Dashboard execution completed
+2025-03-24 12:01:33,892 - ERROR - Error initializing BigQuery client: File C:\Users\YASHWANTH\Desktop\Media Analytics\data\media-content-analytics-454110-42ae23de3324.json was not found.
+2025-03-24 12:02:49,371 - INFO - Loading YouTube data from BigQuery
+2025-03-24 12:02:52,936 - INFO - Loading News data from BigQuery
+2025-03-24 12:03:16,590 - INFO - Dashboard Loaded
+2025-03-24 12:03:16,590 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 12:03:16,604 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 12:03:16,613 - INFO - News Category Filter Selected: All
+2025-03-24 12:03:16,617 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 12:03:16,815 - INFO - Displaying paginated YouTube data
+2025-03-24 12:03:17,289 - INFO - Displaying paginated News data
+2025-03-24 12:03:17,762 - INFO - Dashboard execution completed
+2025-03-24 12:15:23,669 - INFO - Loading YouTube data from BigQuery
+2025-03-24 12:15:27,633 - INFO - Loading News data from BigQuery
+2025-03-24 12:15:52,070 - INFO - Dashboard Loaded
+2025-03-24 12:15:52,070 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 12:15:52,081 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 12:15:52,090 - INFO - News Category Filter Selected: All
+2025-03-24 12:15:52,095 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 12:15:52,275 - INFO - Displaying paginated YouTube data
+2025-03-24 12:15:52,656 - INFO - Displaying paginated News data
+2025-03-24 12:15:53,140 - INFO - Dashboard execution completed
+2025-03-24 12:25:19,437 - INFO - Loading YouTube data from BigQuery
+2025-03-24 12:25:24,191 - INFO - Loading News data from BigQuery
+2025-03-24 12:25:50,382 - INFO - Dashboard Loaded
+2025-03-24 12:25:50,393 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 12:25:50,396 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 12:25:50,404 - INFO - News Category Filter Selected: All
+2025-03-24 12:25:50,409 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 12:25:50,549 - INFO - Displaying paginated YouTube data
+2025-03-24 12:25:51,034 - INFO - Displaying paginated News data
+2025-03-24 12:25:51,620 - INFO - Dashboard execution completed
+2025-03-24 14:09:46,089 - INFO - Loading YouTube data from BigQuery
+2025-03-24 14:09:48,950 - INFO - Loading News data from BigQuery
+2025-03-24 14:10:09,147 - INFO - Dashboard Loaded
+2025-03-24 14:10:10,029 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:10:10,048 - INFO - Dashboard Loaded
+2025-03-24 14:10:10,052 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:10:10,062 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:10:10,068 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:10:10,084 - INFO - News Category Filter Selected: All
+2025-03-24 14:10:10,091 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:10:10,101 - INFO - News Category Filter Selected: All
+2025-03-24 14:10:10,322 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:10:10,738 - INFO - Displaying paginated YouTube data
+2025-03-24 14:10:10,738 - INFO - Displaying paginated YouTube data
+2025-03-24 14:10:11,927 - INFO - Displaying paginated News data
+2025-03-24 14:10:12,086 - INFO - Displaying paginated News data
+2025-03-24 14:10:13,407 - INFO - Dashboard execution completed
+2025-03-24 14:10:13,726 - INFO - Dashboard execution completed
+2025-03-24 14:16:34,790 - INFO - Loading YouTube data from BigQuery
+2025-03-24 14:16:37,976 - INFO - Loading News data from BigQuery
+2025-03-24 14:17:00,490 - INFO - Dashboard Loaded
+2025-03-24 14:17:00,530 - INFO - Selected Dataset: YouTube
+2025-03-24 14:17:00,562 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:17:00,562 - INFO - Dashboard Loaded
+2025-03-24 14:17:00,640 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:17:01,512 - INFO - Selected Dataset: YouTube
+2025-03-24 14:17:01,565 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:17:01,576 - INFO - Dashboard Loaded
+2025-03-24 14:17:01,576 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:17:01,576 - INFO - Selected Dataset: YouTube
+2025-03-24 14:17:01,599 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:17:01,604 - INFO - Displaying paginated YouTube data
+2025-03-24 14:17:01,604 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:17:01,612 - INFO - Displaying paginated YouTube data
+2025-03-24 14:17:01,628 - INFO - Displaying paginated YouTube data
+2025-03-24 14:17:03,062 - INFO - Dashboard execution completed
+2025-03-24 14:17:03,180 - INFO - Dashboard execution completed
+2025-03-24 14:17:03,274 - INFO - Dashboard execution completed
+2025-03-24 14:17:16,180 - INFO - Dashboard Loaded
+2025-03-24 14:17:16,180 - INFO - Selected Dataset: News
+2025-03-24 14:17:16,204 - INFO - News Category Filter Selected: All
+2025-03-24 14:17:16,205 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:17:16,468 - INFO - Displaying paginated News data
+2025-03-24 14:17:17,430 - INFO - Dashboard execution completed
+2025-03-24 14:19:11,242 - INFO - Dashboard Loaded
+2025-03-24 14:19:11,242 - INFO - Selected Dataset: YouTube
+2025-03-24 14:19:11,242 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:19:11,258 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:19:11,271 - INFO - Displaying paginated YouTube data
+2025-03-24 14:19:12,028 - INFO - Dashboard execution completed
+2025-03-24 14:28:17,165 - INFO - Dashboard Loaded
+2025-03-24 14:28:17,165 - INFO - Selected Dataset: YouTube
+2025-03-24 14:28:17,165 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:28:17,181 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:28:17,195 - INFO - Displaying paginated YouTube data
+2025-03-24 14:28:18,070 - INFO - Dashboard execution completed
+2025-03-24 14:28:30,751 - INFO - Dashboard Loaded
+2025-03-24 14:28:30,751 - INFO - Selected Dataset: News
+2025-03-24 14:28:30,787 - INFO - News Category Filter Selected: All
+2025-03-24 14:28:30,793 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:28:31,170 - INFO - Displaying paginated News data
+2025-03-24 14:28:32,389 - INFO - Dashboard execution completed
+2025-03-24 14:28:53,529 - INFO - Dashboard Loaded
+2025-03-24 14:28:53,535 - INFO - Selected Dataset: News
+2025-03-24 14:28:53,555 - INFO - News Category Filter Selected: Education
+2025-03-24 14:28:53,561 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:28:53,862 - INFO - Displaying paginated News data
+2025-03-24 14:28:54,667 - INFO - Dashboard execution completed
+2025-03-24 14:29:34,057 - INFO - Dashboard Loaded
+2025-03-24 14:29:34,058 - INFO - Selected Dataset: News
+2025-03-24 14:29:34,076 - INFO - News Category Filter Selected: Education
+2025-03-24 14:29:34,090 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:29:34,386 - INFO - Displaying paginated News data
+2025-03-24 14:29:34,387 - INFO - Navigated to next News page
+2025-03-24 14:29:37,744 - INFO - Dashboard Loaded
+2025-03-24 14:29:37,744 - INFO - Selected Dataset: News
+2025-03-24 14:29:37,773 - INFO - News Category Filter Selected: Education
+2025-03-24 14:29:37,779 - INFO - News Date Range: 2012-01-28 to 2022-09-23
+2025-03-24 14:29:38,070 - INFO - Displaying paginated News data
+2025-03-24 14:29:38,820 - INFO - Dashboard execution completed
+2025-03-24 14:29:42,583 - INFO - Dashboard Loaded
+2025-03-24 14:29:42,583 - INFO - Selected Dataset: YouTube
+2025-03-24 14:29:42,590 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:29:42,593 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:29:42,645 - INFO - Displaying paginated YouTube data
+2025-03-24 14:29:43,282 - INFO - Dashboard execution completed
+2025-03-24 14:31:45,736 - INFO - Dashboard Loaded
+2025-03-24 14:31:45,736 - INFO - Selected Dataset: YouTube
+2025-03-24 14:31:45,742 - INFO - YouTube Channel Filter Selected: All
+2025-03-24 14:31:45,746 - INFO - YouTube Date Range: 2018-03-31 to 2025-03-20
+2025-03-24 14:31:45,764 - INFO - Displaying paginated YouTube data
+2025-03-24 14:31:46,631 - INFO - Dashboard execution completed
+2025-03-24 14:33:40,713 - INFO - Loading YouTube data from BigQuery
+2025-03-24 14:33:43,809 - INFO - Loading News data from BigQuery
+2025-03-24 14:34:04,347 - INFO - Dashboard Loaded
+2025-03-24 14:34:04,347 - INFO - Selected Dataset: YouTube
+2025-03-24 14:34:04,356 - INFO - Dashboard Loaded
+2025-03-24 14:34:04,362 - INFO - Selected Dataset: YouTube
+2025-03-24 14:34:05,191 - INFO - Dashboard execution completed
+2025-03-24 14:34:05,303 - INFO - Dashboard execution completed
+2025-03-24 14:34:22,155 - INFO - Dashboard Loaded
+2025-03-24 14:34:22,159 - INFO - Selected Dataset: YouTube
+2025-03-24 14:34:22,310 - INFO - Dashboard execution completed
+2025-03-24 14:34:44,098 - INFO - Dashboard Loaded
+2025-03-24 14:34:44,100 - INFO - Selected Dataset: YouTube
+2025-03-24 14:34:57,554 - INFO - Dashboard Loaded
+2025-03-24 14:34:57,555 - INFO - Selected Dataset: YouTube
+2025-03-24 14:35:07,581 - INFO - Dashboard Loaded
+2025-03-24 14:35:07,597 - INFO - Selected Dataset: YouTube
+2025-03-24 14:36:10,756 - INFO - Dashboard Loaded
+2025-03-24 14:36:10,756 - INFO - Selected Dataset: YouTube
+2025-03-24 14:36:51,408 - INFO - Dashboard Loaded
+2025-03-24 14:36:51,411 - INFO - Selected Dataset: YouTube
+2025-03-24 14:36:59,763 - INFO - Dashboard Loaded
+2025-03-24 14:36:59,763 - INFO - Selected Dataset: YouTube
+2025-03-24 14:37:09,892 - INFO - Dashboard Loaded
+2025-03-24 14:37:09,895 - INFO - Selected Dataset: YouTube
+2025-03-24 14:38:24,046 - INFO - Dashboard Loaded
+2025-03-24 14:38:24,046 - INFO - Selected Dataset: News
+2025-03-24 14:38:33,792 - INFO - Dashboard Loaded
+2025-03-24 14:38:33,792 - INFO - Selected Dataset: News
+2025-03-24 14:39:34,712 - INFO - Dashboard Loaded
+2025-03-24 14:39:34,712 - INFO - Selected Dataset: YouTube
+2025-03-24 14:41:32,733 - INFO - Dashboard Loaded
+2025-03-24 14:41:32,736 - INFO - Selected Dataset: YouTube
+2025-03-24 14:41:48,029 - INFO - Dashboard Loaded
+2025-03-24 14:41:48,041 - INFO - Selected Dataset: YouTube
+2025-03-24 14:41:55,568 - INFO - Dashboard Loaded
+2025-03-24 14:41:55,584 - INFO - Selected Dataset: YouTube
+2025-03-24 14:42:25,954 - INFO - Dashboard Loaded
+2025-03-24 14:42:25,954 - INFO - Selected Dataset: YouTube
+2025-03-24 14:42:44,828 - INFO - Dashboard Loaded
+2025-03-24 14:42:44,828 - INFO - Selected Dataset: YouTube
+2025-03-24 14:42:56,340 - INFO - Dashboard Loaded
+2025-03-24 14:42:56,340 - INFO - Selected Dataset: YouTube
+2025-03-24 14:48:21,979 - INFO - Dashboard Loaded
+2025-03-24 14:48:21,984 - INFO - Selected Dataset: YouTube
+2025-03-24 14:48:31,772 - INFO - Dashboard Loaded
+2025-03-24 14:48:31,773 - INFO - Selected Dataset: YouTube
+2025-03-24 14:48:48,152 - INFO - Dashboard Loaded
+2025-03-24 14:48:48,153 - INFO - Selected Dataset: YouTube
+2025-03-24 14:52:07,824 - INFO - Dashboard Loaded
+2025-03-24 14:52:07,826 - INFO - Selected Dataset: YouTube
+2025-03-24 14:53:15,771 - INFO - Dashboard Loaded
+2025-03-24 14:53:15,771 - INFO - Selected Dataset: YouTube
+2025-03-24 14:57:25,548 - INFO - Loading YouTube data from BigQuery
+2025-03-24 14:57:28,517 - INFO - Loading News data from BigQuery
+2025-03-24 14:57:45,154 - INFO - Dashboard Loaded
+2025-03-24 14:57:45,156 - INFO - Selected Dataset: YouTube
+2025-03-24 14:57:53,219 - INFO - Dashboard Loaded
+2025-03-24 14:57:53,221 - INFO - Selected Dataset: YouTube
+2025-03-24 14:57:56,312 - INFO - Dashboard Loaded
+2025-03-24 14:57:56,312 - INFO - Selected Dataset: YouTube
+2025-03-24 15:13:11,214 - INFO - Dashboard Loaded
+2025-03-24 15:13:11,223 - INFO - Selected Dataset: YouTube
+2025-03-24 15:18:29,630 - INFO - Dashboard Loaded
+2025-03-24 15:18:29,631 - INFO - Selected Dataset: YouTube
+2025-03-24 15:18:32,178 - INFO - Dashboard Loaded
+2025-03-24 15:18:32,178 - INFO - Selected Dataset: YouTube
+2025-03-24 15:18:41,501 - INFO - Dashboard Loaded
+2025-03-24 15:18:41,501 - INFO - Selected Dataset: YouTube
+2025-03-24 15:18:44,615 - INFO - Dashboard Loaded
+2025-03-24 15:18:44,623 - INFO - Selected Dataset: YouTube
+2025-03-24 16:51:18,532 - INFO - Dashboard Loaded
+2025-03-24 16:51:18,547 - INFO - Selected Dataset: YouTube
+2025-03-24 17:01:41,968 - INFO - Dashboard Loaded
+2025-03-24 17:01:41,970 - INFO - Selected Dataset: YouTube
+2025-03-24 17:15:54,005 - INFO - Dashboard Loaded
+2025-03-24 17:15:54,005 - INFO - Selected Dataset: YouTube
+2025-03-24 17:28:46,759 - INFO - Dashboard Loaded
+2025-03-24 17:28:46,759 - INFO - Selected Dataset: News
+2025-03-24 17:30:00,988 - INFO - Dashboard Loaded
+2025-03-24 17:30:00,988 - INFO - Selected Dataset: YouTube
+2025-03-24 17:30:10,100 - INFO - Dashboard Loaded
+2025-03-24 17:30:10,100 - INFO - Selected Dataset: News
+2025-03-24 17:30:34,642 - INFO - Dashboard Loaded
+2025-03-24 17:30:34,648 - INFO - Selected Dataset: YouTube
+2025-03-24 17:30:42,138 - INFO - Dashboard Loaded
+2025-03-24 17:30:42,144 - INFO - Selected Dataset: News
+2025-03-24 17:30:52,236 - INFO - Dashboard Loaded
+2025-03-24 17:30:52,236 - INFO - Selected Dataset: YouTube
+2025-03-24 17:30:58,033 - INFO - Dashboard Loaded
+2025-03-24 17:30:58,034 - INFO - Selected Dataset: News
+2025-03-24 17:31:16,327 - INFO - Dashboard Loaded
+2025-03-24 17:31:16,329 - INFO - Selected Dataset: YouTube
+2025-03-24 17:33:14,359 - INFO - Loading YouTube data from BigQuery
+2025-03-24 17:33:17,515 - INFO - Loading News data from BigQuery
+2025-03-24 17:33:19,625 - INFO - Dashboard Loaded
+2025-03-24 17:33:19,625 - INFO - Selected Dataset: YouTube
+2025-03-24 17:34:34,979 - INFO - Dashboard Loaded
+2025-03-24 17:34:34,979 - INFO - Selected Dataset: News
+2025-03-24 17:34:59,392 - INFO - Dashboard Loaded
+2025-03-24 17:34:59,394 - INFO - Selected Dataset: YouTube
+2025-03-24 17:35:37,894 - INFO - Dashboard Loaded
+2025-03-24 17:35:37,894 - INFO - Selected Dataset: News
+2025-03-24 17:35:44,323 - INFO - Dashboard Loaded
+2025-03-24 17:35:44,323 - INFO - Selected Dataset: YouTube
+2025-03-24 17:36:06,911 - INFO - Loading YouTube data from BigQuery
+2025-03-24 17:36:14,790 - INFO - Loading News data from BigQuery
+2025-03-24 17:36:20,102 - INFO - Dashboard Loaded
+2025-03-24 17:36:20,102 - INFO - Selected Dataset: YouTube
+2025-03-24 17:36:27,408 - INFO - Dashboard Loaded
+2025-03-24 17:36:27,409 - INFO - Selected Dataset: News
+2025-03-24 21:30:22,083 - INFO - Loading YouTube data from BigQuery
+2025-03-24 21:30:26,242 - INFO - Loading News data from BigQuery
+2025-03-24 21:30:34,974 - INFO - Dashboard Loaded
+2025-03-24 21:30:34,974 - INFO - Selected Dataset: YouTube
+2025-03-24 21:30:55,996 - INFO - Dashboard Loaded
+2025-03-24 21:30:55,996 - INFO - Selected Dataset: News
+2025-03-25 18:25:08,117 - INFO - Dashboard Loaded
+2025-03-25 18:25:08,134 - INFO - Selected Dataset: YouTube
+2025-03-25 18:47:08,999 - INFO - Dashboard Loaded
+2025-03-25 18:47:09,002 - INFO - Selected Dataset: YouTube
+2025-03-25 18:47:09,004 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 18:47:13,857 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 18:47:15,759 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 18:47:19,559 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 18:47:22,928 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views,
+                   ANY_VALUE(channel_name) as top_channel
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY SUM(views) DESC
+            LIMIT 1
+        
+2025-03-25 18:48:01,432 - INFO - Dashboard Loaded
+2025-03-25 18:48:01,434 - INFO - Selected Dataset: News
+2025-03-25 18:48:01,440 - INFO - Executing query: SELECT DISTINCT category FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 18:48:05,109 - INFO - Executing query: SELECT MIN(date) as min_date, MAX(date) as max_date FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 18:48:07,343 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+     LIMIT 10 OFFSET 0
+2025-03-25 18:48:07,797 - ERROR - Error executing query: 400 Syntax error: Expected end of input but got keyword LIMIT at [7:6]; reason: invalidQuery, location: query, message: Syntax error: Expected end of input but got keyword LIMIT at [7:6]
+
+Location: asia-south1
+Job ID: 321e5954-9f9d-4044-a0b8-1f451af64b9b
+
+2025-03-25 18:48:07,845 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 18:48:10,514 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles, category
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+    )
+            GROUP BY category
+            ORDER BY COUNT(*) DESC
+            LIMIT 1
+        
+2025-03-25 18:57:16,293 - INFO - Dashboard Loaded
+2025-03-25 18:57:16,293 - INFO - Selected Dataset: YouTube
+2025-03-25 18:57:16,300 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 18:57:19,993 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 18:57:22,129 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 18:57:24,501 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 18:57:27,376 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+        
+2025-03-25 18:57:30,953 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 18:57:49,088 - INFO - Dashboard Loaded
+2025-03-25 18:57:49,088 - INFO - Selected Dataset: News
+2025-03-25 18:57:49,088 - INFO - Executing query: SELECT DISTINCT category FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 18:57:51,949 - INFO - Executing query: SELECT MIN(date) as min_date, MAX(date) as max_date FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 18:57:53,561 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+     LIMIT 10 OFFSET 0
+2025-03-25 18:57:53,792 - ERROR - Error executing query: 400 Syntax error: Expected end of input but got keyword LIMIT at [7:6]; reason: invalidQuery, location: query, message: Syntax error: Expected end of input but got keyword LIMIT at [7:6]
+
+Location: asia-south1
+Job ID: 9f0f30f9-7823-49f0-a6c6-ed5ccb12513a
+
+2025-03-25 18:57:53,823 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 18:57:56,505 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+    )
+        
+2025-03-25 18:57:58,299 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:07:19,865 - INFO - Dashboard Loaded
+2025-03-25 19:07:19,867 - INFO - Selected Dataset: News
+2025-03-25 19:07:19,914 - INFO - Executing query: 
+                SELECT category, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        LIMIT 20000
+    )
+                GROUP BY category
+                ORDER BY article_count DESC
+            
+2025-03-25 19:07:30,868 - INFO - Dashboard Loaded
+2025-03-25 19:07:30,868 - INFO - Selected Dataset: YouTube
+2025-03-25 19:07:42,317 - INFO - Dashboard Loaded
+2025-03-25 19:07:42,318 - INFO - Selected Dataset: YouTube
+2025-03-25 19:07:42,331 - INFO - Executing query: 
+                SELECT DATE(publish_time) as date, channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY DATE(publish_time), channel_name
+                ORDER BY date
+            
+2025-03-25 19:07:51,664 - INFO - Dashboard Loaded
+2025-03-25 19:07:51,669 - INFO - Selected Dataset: YouTube
+2025-03-25 19:07:51,683 - INFO - Executing query: 
+                    SELECT channel_name, COUNT(*) as count
+                    FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                    GROUP BY channel_name
+                    ORDER BY count DESC
+                    LIMIT 10
+                
+2025-03-25 19:07:58,666 - INFO - Dashboard Loaded
+2025-03-25 19:07:58,666 - INFO - Selected Dataset: YouTube
+2025-03-25 19:07:58,684 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:08:01,301 - INFO - Executing query: 
+                    SELECT channel_name, COUNT(*) as count
+                    FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                    GROUP BY channel_name
+                    ORDER BY count DESC
+                    LIMIT 10
+                
+2025-03-25 19:08:03,715 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+        
+2025-03-25 19:08:05,381 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:08:13,702 - INFO - Dashboard Loaded
+2025-03-25 19:08:13,702 - INFO - Selected Dataset: YouTube
+2025-03-25 19:08:13,728 - INFO - Executing query: 
+                SELECT views, likes
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+            
+2025-03-25 19:08:22,735 - INFO - Dashboard Loaded
+2025-03-25 19:08:22,735 - INFO - Selected Dataset: YouTube
+2025-03-25 19:08:26,699 - INFO - Dashboard Loaded
+2025-03-25 19:08:26,699 - INFO - Selected Dataset: YouTube
+2025-03-25 19:08:26,716 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:08:33,903 - INFO - Dashboard Loaded
+2025-03-25 19:08:33,912 - INFO - Selected Dataset: YouTube
+2025-03-25 19:08:33,935 - INFO - Executing query: 
+                SELECT channel_name, AVG(subscribers_count) as avg_subscribers
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                GROUP BY channel_name
+            
+2025-03-25 19:08:49,794 - INFO - Dashboard Loaded
+2025-03-25 19:08:49,794 - INFO - Selected Dataset: YouTube
+2025-03-25 19:08:49,819 - INFO - Executing query: 
+                SELECT channel_name, AVG(subscribers_count) as avg_subscribers
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+            
+2025-03-25 19:11:22,052 - INFO - Dashboard Loaded
+2025-03-25 19:11:22,052 - INFO - Selected Dataset: YouTube
+2025-03-25 19:11:27,309 - INFO - Dashboard Loaded
+2025-03-25 19:11:27,309 - INFO - Selected Dataset: News
+2025-03-25 19:11:27,319 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:11:29,632 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:11:31,728 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+        
+2025-03-25 19:11:34,946 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:14:41,840 - INFO - Dashboard Loaded
+2025-03-25 19:14:41,840 - INFO - Selected Dataset: YouTube
+2025-03-25 19:14:41,845 - INFO - Executing query: 
+        SELECT 
+            ARRAY_AGG(DISTINCT channel_name) as channels,
+            MIN(publish_time) as min_date,
+            MAX(publish_time) as max_date,
+            ARRAY_AGG(DISTINCT tag) as tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        CROSS JOIN UNNEST(SPLIT(tags, ', ')) as tag
+    
+2025-03-25 19:14:44,448 - INFO - Executing query: 
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:14:46,392 - INFO - Executing query: 
+                    SELECT channel_name, SUM(views) as total_views
+                    FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+    )
+                    GROUP BY channel_name
+                    ORDER BY total_views DESC
+                
+2025-03-25 19:14:48,658 - INFO - Executing query: 
+                SELECT COUNT(*) as total_videos, SUM(views) as total_views
+                FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+    )
+            
+2025-03-25 19:14:50,614 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+                LIMIT 1
+            
+2025-03-25 19:15:00,372 - INFO - Dashboard Loaded
+2025-03-25 19:15:00,379 - INFO - Selected Dataset: YouTube
+2025-03-25 19:15:00,389 - INFO - Executing query: 
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllNTV Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:15:03,531 - INFO - Executing query: 
+                    SELECT channel_name, SUM(views) as total_views
+                    FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllNTV Telugu'
+        
+    )
+                    GROUP BY channel_name
+                    ORDER BY total_views DESC
+                
+2025-03-25 19:15:06,061 - INFO - Executing query: 
+                SELECT COUNT(*) as total_videos, SUM(views) as total_views
+                FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'AllNTV Telugu'
+        
+    )
+            
+2025-03-25 19:15:08,410 - INFO - Dashboard Loaded
+2025-03-25 19:15:08,420 - INFO - Selected Dataset: News
+2025-03-25 19:15:08,420 - INFO - Executing query: 
+        SELECT 
+            ARRAY_AGG(DISTINCT category) as categories,
+            MIN(date) as min_date,
+            MAX(date) as max_date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+    
+2025-03-25 19:15:11,097 - INFO - Executing query: 
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllEducation'
+        LIMIT 20000
+     LIMIT 10 OFFSET 0
+2025-03-25 19:15:11,464 - ERROR - Error executing query: 400 Syntax error: Expected end of input but got keyword LIMIT at [7:6]; reason: invalidQuery, location: query, message: Syntax error: Expected end of input but got keyword LIMIT at [7:6]
+
+Location: asia-south1
+Job ID: 71d13f1d-9646-4341-ba0e-ba5d7d70a9c4
+
+2025-03-25 19:15:11,482 - INFO - Executing query: 
+                    SELECT DATE(date) as date, COUNT(*) as article_count
+                    FROM (
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllEducation'
+        LIMIT 20000
+    )
+                    GROUP BY DATE(date)
+                    ORDER BY date
+                
+2025-03-25 19:15:13,846 - INFO - Executing query: 
+                SELECT COUNT(*) as total_articles
+                FROM (
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllEducation'
+        LIMIT 20000
+    )
+            
+2025-03-25 19:15:15,615 - INFO - Executing query: 
+                SELECT category, COUNT(*) as article_count
+                FROM (
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllEducation'
+        LIMIT 20000
+    )
+                GROUP BY category
+                ORDER BY article_count DESC
+                LIMIT 1
+            
+2025-03-25 19:15:19,184 - INFO - Dashboard Loaded
+2025-03-25 19:15:19,188 - INFO - Selected Dataset: News
+2025-03-25 19:15:19,212 - INFO - Executing query: 
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllCollege'
+        LIMIT 20000
+     LIMIT 10 OFFSET 0
+2025-03-25 19:15:20,270 - ERROR - Error executing query: 400 Syntax error: Expected end of input but got keyword LIMIT at [7:6]; reason: invalidQuery, location: query, message: Syntax error: Expected end of input but got keyword LIMIT at [7:6]
+
+Location: asia-south1
+Job ID: 88ae17d9-18bb-41bd-abb0-9362bf8f8331
+
+2025-03-25 19:15:20,287 - INFO - Executing query: 
+                    SELECT DATE(date) as date, COUNT(*) as article_count
+                    FROM (
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllCollege'
+        LIMIT 20000
+    )
+                    GROUP BY DATE(date)
+                    ORDER BY date
+                
+2025-03-25 19:15:22,334 - INFO - Executing query: 
+                SELECT COUNT(*) as total_articles
+                FROM (
+        SELECT category, date
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE DATE(date) BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'AllCollege'
+        LIMIT 20000
+    )
+            
+2025-03-25 19:15:23,196 - INFO - Dashboard Loaded
+2025-03-25 19:15:23,196 - INFO - Selected Dataset: YouTube
+2025-03-25 19:15:30,524 - INFO - Dashboard Loaded
+2025-03-25 19:15:30,524 - INFO - Selected Dataset: YouTube
+2025-03-25 19:15:48,305 - INFO - Dashboard Loaded
+2025-03-25 19:15:48,305 - INFO - Selected Dataset: YouTube
+2025-03-25 19:19:39,716 - INFO - Dashboard Loaded
+2025-03-25 19:19:39,716 - INFO - Selected Dataset: YouTube
+2025-03-25 19:19:39,716 - INFO - Executing query: 
+        SELECT 
+            ARRAY_AGG(DISTINCT channel_name) as channels,
+            MIN(DATE(publish_time)) as min_date,
+            MAX(DATE(publish_time)) as max_date,
+            ARRAY_AGG(DISTINCT tag) as tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        CROSS JOIN UNNEST(SPLIT(tags, ', ')) as tag
+        WHERE DATE(publish_time) >= '2020-01-01'  -- Adjust to your data's earliest date
+    
+2025-03-25 19:19:41,931 - INFO - Executing query: 
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2020-02-05' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:19:43,875 - INFO - Executing query: 
+                    SELECT channel_name, SUM(views) as total_views
+                    FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2020-02-05' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+    )
+                    GROUP BY channel_name
+                    ORDER BY total_views DESC
+                
+2025-03-25 19:19:45,916 - INFO - Executing query: 
+                SELECT COUNT(*) as total_videos, SUM(views) as total_views
+                FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2020-02-05' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+    )
+            
+2025-03-25 19:19:47,721 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT channel_name, publish_time, views, likes, subscribers_count, category_id, tags
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE DATE(publish_time) BETWEEN '2020-02-05' AND '2025-03-20'
+        AND channel_name = 'AllTV9 Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+                LIMIT 1
+            
+2025-03-25 19:20:15,408 - INFO - Dashboard Loaded
+2025-03-25 19:20:15,408 - INFO - Selected Dataset: YouTube
+2025-03-25 19:28:08,319 - INFO - Dashboard Loaded
+2025-03-25 19:28:08,327 - INFO - Selected Dataset: YouTube
+2025-03-25 19:28:08,339 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:28:10,750 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:28:13,362 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+        
+2025-03-25 19:28:15,270 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:28:36,867 - INFO - Dashboard Loaded
+2025-03-25 19:28:36,870 - INFO - Selected Dataset: YouTube
+2025-03-25 19:28:36,885 - INFO - Executing query: 
+                SELECT views, likes
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            
+2025-03-25 19:28:45,502 - INFO - Dashboard Loaded
+2025-03-25 19:28:45,504 - INFO - Selected Dataset: YouTube
+2025-03-25 19:28:45,515 - INFO - Executing query: 
+                SELECT DATE(publish_time) as date, channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY DATE(publish_time), channel_name
+                ORDER BY date
+            
+2025-03-25 19:28:53,664 - INFO - Dashboard Loaded
+2025-03-25 19:28:53,664 - INFO - Selected Dataset: YouTube
+2025-03-25 19:28:58,438 - INFO - Dashboard Loaded
+2025-03-25 19:28:58,438 - INFO - Selected Dataset: YouTube
+2025-03-25 19:29:07,008 - INFO - Dashboard Loaded
+2025-03-25 19:29:07,013 - INFO - Selected Dataset: YouTube
+2025-03-25 19:29:07,025 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:29:08,912 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:29:11,065 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+        
+2025-03-25 19:29:14,101 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:29:14,491 - INFO - Dashboard Loaded
+2025-03-25 19:29:14,491 - INFO - Selected Dataset: YouTube
+2025-03-25 19:29:14,524 - INFO - Executing query: 
+                SELECT DATE(publish_time) as date, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                GROUP BY DATE(publish_time)
+                ORDER BY date
+            
+2025-03-25 19:29:42,813 - INFO - Dashboard Loaded
+2025-03-25 19:29:42,813 - INFO - Selected Dataset: News
+2025-03-25 19:29:42,821 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:29:44,726 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:29:47,249 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+        
+2025-03-25 19:35:17,479 - INFO - Dashboard Loaded
+2025-03-25 19:35:17,479 - INFO - Selected Dataset: YouTube
+2025-03-25 19:35:22,692 - INFO - Dashboard Loaded
+2025-03-25 19:35:22,692 - INFO - Selected Dataset: News
+2025-03-25 19:35:23,506 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:35:33,855 - INFO - Dashboard Loaded
+2025-03-25 19:35:33,857 - INFO - Selected Dataset: YouTube
+2025-03-25 19:35:44,970 - INFO - Dashboard Loaded
+2025-03-25 19:35:44,975 - INFO - Selected Dataset: YouTube
+2025-03-25 19:35:44,992 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:35:47,520 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:35:50,082 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+        
+2025-03-25 19:35:52,040 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:36:35,506 - INFO - Dashboard Loaded
+2025-03-25 19:36:35,506 - INFO - Selected Dataset: YouTube
+2025-03-25 19:36:35,513 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 19:36:37,759 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 19:36:39,268 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:36:40,740 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:36:42,992 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+        
+2025-03-25 19:36:44,480 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:37:04,576 - INFO - Dashboard Loaded
+2025-03-25 19:37:04,578 - INFO - Selected Dataset: News
+2025-03-25 19:37:04,578 - INFO - Executing query: SELECT DISTINCT category FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 19:37:06,894 - INFO - Executing query: SELECT MIN(date) as min_date, MAX(date) as max_date FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 19:37:08,893 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:37:10,786 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:37:13,212 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+        
+2025-03-25 19:37:15,089 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:37:23,278 - INFO - Dashboard Loaded
+2025-03-25 19:37:23,282 - INFO - Selected Dataset: News
+2025-03-25 19:37:23,286 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:37:25,201 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:37:27,764 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+    )
+        
+2025-03-25 19:37:29,458 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:38:00,331 - INFO - Dashboard Loaded
+2025-03-25 19:38:00,342 - INFO - Selected Dataset: News
+2025-03-25 19:38:00,488 - INFO - Dashboard Loaded
+2025-03-25 19:38:00,491 - INFO - Selected Dataset: News
+2025-03-25 19:38:00,504 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 10
+2025-03-25 19:38:03,991 - INFO - Dashboard Loaded
+2025-03-25 19:38:03,996 - INFO - Selected Dataset: News
+2025-03-25 19:38:04,083 - INFO - Dashboard Loaded
+2025-03-25 19:38:04,084 - INFO - Selected Dataset: News
+2025-03-25 19:38:04,090 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 20
+2025-03-25 19:38:12,122 - INFO - Dashboard Loaded
+2025-03-25 19:38:12,122 - INFO - Selected Dataset: News
+2025-03-25 19:38:12,199 - INFO - Dashboard Loaded
+2025-03-25 19:38:12,203 - INFO - Selected Dataset: News
+2025-03-25 19:38:12,210 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 30
+2025-03-25 19:38:15,468 - INFO - Dashboard Loaded
+2025-03-25 19:38:15,468 - INFO - Selected Dataset: News
+2025-03-25 19:38:15,547 - INFO - Dashboard Loaded
+2025-03-25 19:38:15,547 - INFO - Selected Dataset: News
+2025-03-25 19:38:15,547 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 40
+2025-03-25 19:38:24,180 - INFO - Dashboard Loaded
+2025-03-25 19:38:24,186 - INFO - Selected Dataset: News
+2025-03-25 19:38:24,264 - INFO - Dashboard Loaded
+2025-03-25 19:38:24,264 - INFO - Selected Dataset: News
+2025-03-25 19:38:24,269 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 50
+2025-03-25 19:38:35,695 - INFO - Dashboard Loaded
+2025-03-25 19:38:35,700 - INFO - Selected Dataset: News
+2025-03-25 19:38:35,778 - INFO - Dashboard Loaded
+2025-03-25 19:38:35,779 - INFO - Selected Dataset: News
+2025-03-25 19:38:35,785 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 60
+2025-03-25 19:38:37,195 - INFO - Dashboard Loaded
+2025-03-25 19:38:37,204 - INFO - Selected Dataset: News
+2025-03-25 19:38:37,699 - INFO - Dashboard Loaded
+2025-03-25 19:38:37,705 - INFO - Selected Dataset: News
+2025-03-25 19:38:37,712 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 70
+2025-03-25 19:38:37,893 - INFO - Dashboard Loaded
+2025-03-25 19:38:37,893 - INFO - Selected Dataset: News
+2025-03-25 19:38:38,140 - INFO - Dashboard Loaded
+2025-03-25 19:38:38,140 - INFO - Selected Dataset: News
+2025-03-25 19:38:38,356 - INFO - Dashboard Loaded
+2025-03-25 19:38:38,361 - INFO - Selected Dataset: News
+2025-03-25 19:38:38,572 - INFO - Dashboard Loaded
+2025-03-25 19:38:38,572 - INFO - Selected Dataset: News
+2025-03-25 19:38:38,777 - INFO - Dashboard Loaded
+2025-03-25 19:38:38,792 - INFO - Selected Dataset: News
+2025-03-25 19:38:39,011 - INFO - Dashboard Loaded
+2025-03-25 19:38:39,013 - INFO - Selected Dataset: News
+2025-03-25 19:38:39,277 - INFO - Dashboard Loaded
+2025-03-25 19:38:39,280 - INFO - Selected Dataset: News
+2025-03-25 19:38:39,472 - INFO - Dashboard Loaded
+2025-03-25 19:38:39,472 - INFO - Selected Dataset: News
+2025-03-25 19:38:39,803 - INFO - Dashboard Loaded
+2025-03-25 19:38:39,803 - INFO - Selected Dataset: News
+2025-03-25 19:38:39,881 - INFO - Dashboard Loaded
+2025-03-25 19:38:39,881 - INFO - Selected Dataset: News
+2025-03-25 19:38:39,904 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 80
+2025-03-25 19:38:39,953 - INFO - Dashboard Loaded
+2025-03-25 19:38:39,953 - INFO - Selected Dataset: News
+2025-03-25 19:38:42,071 - INFO - Dashboard Loaded
+2025-03-25 19:38:42,071 - INFO - Selected Dataset: News
+2025-03-25 19:38:42,084 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 90
+2025-03-25 19:38:43,090 - INFO - Dashboard Loaded
+2025-03-25 19:38:43,090 - INFO - Selected Dataset: News
+2025-03-25 19:38:44,084 - INFO - Dashboard Loaded
+2025-03-25 19:38:44,084 - INFO - Selected Dataset: News
+2025-03-25 19:38:44,086 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Culture & Arts'
+     LIMIT 10 OFFSET 100
+2025-03-25 19:39:05,636 - INFO - Dashboard Loaded
+2025-03-25 19:39:05,645 - INFO - Selected Dataset: News
+2025-03-25 19:39:05,653 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Black Voices'
+     LIMIT 10 OFFSET 100
+2025-03-25 19:39:07,503 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Black Voices'
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:39:09,949 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Black Voices'
+    )
+        
+2025-03-25 19:39:12,186 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Black Voices'
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:43:33,533 - INFO - Dashboard Loaded
+2025-03-25 19:43:33,533 - INFO - Selected Dataset: YouTube
+2025-03-25 19:43:36,990 - INFO - Dashboard Loaded
+2025-03-25 19:43:36,991 - INFO - Selected Dataset: YouTube
+2025-03-25 19:43:37,068 - INFO - Dashboard Loaded
+2025-03-25 19:43:37,069 - INFO - Selected Dataset: YouTube
+2025-03-25 19:43:37,069 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 10
+2025-03-25 19:43:42,210 - INFO - Dashboard Loaded
+2025-03-25 19:43:42,210 - INFO - Selected Dataset: YouTube
+2025-03-25 19:43:42,290 - INFO - Dashboard Loaded
+2025-03-25 19:43:42,290 - INFO - Selected Dataset: YouTube
+2025-03-25 19:43:42,295 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 20
+2025-03-25 19:43:49,206 - INFO - Dashboard Loaded
+2025-03-25 19:43:49,206 - INFO - Selected Dataset: News
+2025-03-25 19:43:49,222 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 20
+2025-03-25 19:43:54,003 - INFO - Dashboard Loaded
+2025-03-25 19:43:54,003 - INFO - Selected Dataset: News
+2025-03-25 19:43:54,091 - INFO - Dashboard Loaded
+2025-03-25 19:43:54,091 - INFO - Selected Dataset: News
+2025-03-25 19:43:54,100 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 10
+2025-03-25 19:43:58,024 - INFO - Dashboard Loaded
+2025-03-25 19:43:58,026 - INFO - Selected Dataset: News
+2025-03-25 19:43:58,087 - INFO - Dashboard Loaded
+2025-03-25 19:43:58,103 - INFO - Selected Dataset: News
+2025-03-25 19:44:08,786 - INFO - Dashboard Loaded
+2025-03-25 19:44:08,787 - INFO - Selected Dataset: News
+2025-03-25 19:44:08,793 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Women'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:44:11,412 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Women'
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:44:13,953 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Women'
+    )
+        
+2025-03-25 19:44:15,443 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Women'
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:48:05,426 - INFO - Dashboard Loaded
+2025-03-25 19:48:05,428 - INFO - Selected Dataset: YouTube
+2025-03-25 19:48:05,434 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:48:07,826 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:48:10,140 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+    )
+        
+2025-03-25 19:48:11,823 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:48:14,330 - INFO - Dashboard Loaded
+2025-03-25 19:48:14,332 - INFO - Selected Dataset: YouTube
+2025-03-25 19:48:33,462 - INFO - Dashboard Loaded
+2025-03-25 19:48:33,464 - INFO - Selected Dataset: YouTube
+2025-03-25 19:48:33,468 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yash%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:48:35,709 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yash%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:48:37,746 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yash%'
+    )
+        
+2025-03-25 19:48:39,289 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yash%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:48:50,918 - INFO - Dashboard Loaded
+2025-03-25 19:48:50,918 - INFO - Selected Dataset: YouTube
+2025-03-25 19:48:50,925 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%mantri%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:48:52,889 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%mantri%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:48:55,049 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%mantri%'
+    )
+        
+2025-03-25 19:48:56,682 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%mantri%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:48:59,258 - INFO - Dashboard Loaded
+2025-03-25 19:48:59,261 - INFO - Selected Dataset: YouTube
+2025-03-25 19:48:59,269 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%t new%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:49:01,463 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%t new%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:49:03,673 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%t new%'
+    )
+        
+2025-03-25 19:49:05,230 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%t new%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:49:09,780 - INFO - Dashboard Loaded
+2025-03-25 19:49:09,783 - INFO - Selected Dataset: YouTube
+2025-03-25 19:49:09,790 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yashwanth%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:49:11,701 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yashwanth%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:49:13,984 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yashwanth%'
+    )
+        
+2025-03-25 19:49:15,736 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%yashwanth%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:49:17,123 - INFO - Dashboard Loaded
+2025-03-25 19:49:17,125 - INFO - Selected Dataset: YouTube
+2025-03-25 19:49:17,131 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jvnkjef%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:49:19,081 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jvnkjef%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:49:21,559 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jvnkjef%'
+    )
+        
+2025-03-25 19:49:23,136 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jvnkjef%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:49:27,844 - INFO - Dashboard Loaded
+2025-03-25 19:49:27,844 - INFO - Selected Dataset: YouTube
+2025-03-25 19:49:43,069 - INFO - Dashboard Loaded
+2025-03-25 19:49:43,069 - INFO - Selected Dataset: YouTube
+2025-03-25 19:49:43,076 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%prasad%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:49:45,047 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%prasad%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:49:47,325 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%prasad%'
+    )
+        
+2025-03-25 19:49:49,056 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%prasad%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:49:58,730 - INFO - Dashboard Loaded
+2025-03-25 19:49:58,731 - INFO - Selected Dataset: YouTube
+2025-03-25 19:49:58,735 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%cm jagan%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:50:00,441 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%cm jagan%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:50:02,390 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%cm jagan%'
+    )
+        
+2025-03-25 19:50:04,045 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%cm jagan%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:50:09,490 - INFO - Dashboard Loaded
+2025-03-25 19:50:09,493 - INFO - Selected Dataset: YouTube
+2025-03-25 19:50:09,501 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jagan%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:50:11,459 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jagan%'
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:50:13,575 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jagan%'
+    )
+        
+2025-03-25 19:50:15,181 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        AND title LIKE '%jagan%'
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:51:10,815 - INFO - Dashboard Loaded
+2025-03-25 19:51:10,818 - INFO - Selected Dataset: YouTube
+2025-03-25 19:51:20,643 - INFO - Dashboard Loaded
+2025-03-25 19:51:20,645 - INFO - Selected Dataset: YouTube
+2025-03-25 19:51:20,654 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:51:22,617 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:51:24,559 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+        
+        
+    )
+        
+2025-03-25 19:51:26,270 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:51:28,853 - INFO - Dashboard Loaded
+2025-03-25 19:51:28,854 - INFO - Selected Dataset: News
+2025-03-25 19:51:28,877 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:51:30,738 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:51:32,966 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+        
+2025-03-25 19:51:34,683 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:51:55,813 - INFO - Dashboard Loaded
+2025-03-25 19:51:55,813 - INFO - Selected Dataset: News
+2025-03-25 19:51:55,832 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#rape%'  -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:51:56,526 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [6:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [6:13]
+
+Location: asia-south1
+Job ID: 5ee1c8d0-4669-49f3-91ea-78238662ef43
+
+2025-03-25 19:51:56,542 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#rape%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:51:56,855 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: 96f9e69d-da8d-41ee-a7d3-6c93ccd6ab4d
+
+2025-03-25 19:52:14,601 - INFO - Dashboard Loaded
+2025-03-25 19:52:14,601 - INFO - Selected Dataset: News
+2025-03-25 19:52:14,610 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#news%'  -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:52:15,367 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [6:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [6:13]
+
+Location: asia-south1
+Job ID: 62d7da2c-d118-4dd0-8ebf-44e803bd7380
+
+2025-03-25 19:52:15,380 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#news%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:52:15,790 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: c4808c75-0172-4187-af07-b6e1d781a836
+
+2025-03-25 19:52:28,904 - INFO - Dashboard Loaded
+2025-03-25 19:52:28,905 - INFO - Selected Dataset: News
+2025-03-25 19:52:28,914 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#news%'  -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:52:29,713 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [6:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [6:13]
+
+Location: asia-south1
+Job ID: f71a5f91-9d6b-4ce1-b4ea-251a08642bce
+
+2025-03-25 19:52:29,730 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#news%'  -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:52:30,112 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: ea6e189a-b851-4480-8b79-6ea18cd63d54
+
+2025-03-25 19:52:31,167 - INFO - Dashboard Loaded
+2025-03-25 19:52:31,170 - INFO - Selected Dataset: News
+2025-03-25 19:52:31,180 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+     LIMIT 10 OFFSET 0
+2025-03-25 19:52:32,065 - ERROR - Error executing query: 400 Unrecognized name: title; Did you mean date? at [7:13]; reason: invalidQuery, location: query, message: Unrecognized name: title; Did you mean date? at [7:13]
+
+Location: asia-south1
+Job ID: 0b37f9d5-85c6-477a-afdf-cffea30867d0
+
+2025-03-25 19:52:32,082 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:52:32,575 - ERROR - Error executing query: 400 Unrecognized name: title; Did you mean date? at [9:13]; reason: invalidQuery, location: query, message: Unrecognized name: title; Did you mean date? at [9:13]
+
+Location: asia-south1
+Job ID: 4939e190-4c14-4440-a388-2110b8591145
+
+2025-03-25 19:52:49,654 - INFO - Dashboard Loaded
+2025-03-25 19:52:49,666 - INFO - Selected Dataset: YouTube
+2025-03-25 19:52:53,540 - INFO - Dashboard Loaded
+2025-03-25 19:52:53,543 - INFO - Selected Dataset: News
+2025-03-25 19:53:31,074 - INFO - Dashboard Loaded
+2025-03-25 19:53:31,074 - INFO - Selected Dataset: YouTube
+2025-03-25 19:53:35,840 - INFO - Dashboard Loaded
+2025-03-25 19:53:35,843 - INFO - Selected Dataset: News
+2025-03-25 19:53:40,321 - INFO - Dashboard Loaded
+2025-03-25 19:53:40,321 - INFO - Selected Dataset: News
+2025-03-25 19:53:40,353 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Arts & Culture'
+          -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:53:42,511 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Arts & Culture'
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:53:45,316 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Arts & Culture'
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+        
+2025-03-25 19:53:46,821 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Arts & Culture'
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:53:56,129 - INFO - Dashboard Loaded
+2025-03-25 19:53:56,131 - INFO - Selected Dataset: News
+2025-03-25 19:53:56,141 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Arts & Culture'
+        AND hashtags LIKE '%yash%'  -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:53:56,801 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [6:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [6:13]
+
+Location: asia-south1
+Job ID: c52ff1cb-1ca7-44fc-aab4-8d1ce3949360
+
+2025-03-25 19:53:56,815 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        AND category = 'Arts & Culture'
+        AND hashtags LIKE '%yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:53:57,123 - ERROR - Error executing query: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: 5b40dcd4-ae34-4f5f-bc94-c7f8e3cb0c48
+
+2025-03-25 19:58:59,896 - INFO - Dashboard Loaded
+2025-03-25 19:58:59,899 - INFO - Selected Dataset: YouTube
+2025-03-25 19:58:59,901 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 19:59:02,265 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 19:59:03,979 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:59:05,649 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 19:59:07,851 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+    )
+        
+2025-03-25 19:59:09,595 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 19:59:15,075 - INFO - Dashboard Loaded
+2025-03-25 19:59:15,075 - INFO - Selected Dataset: News
+2025-03-25 19:59:15,084 - INFO - Executing query: SELECT DISTINCT category FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 19:59:17,302 - INFO - Executing query: SELECT MIN(date) as min_date, MAX(date) as max_date FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 19:59:18,868 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:59:20,517 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:59:22,908 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+        
+2025-03-25 19:59:24,448 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:59:44,951 - INFO - Dashboard Loaded
+2025-03-25 19:59:44,953 - INFO - Selected Dataset: News
+2025-03-25 19:59:44,962 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%yash%'  -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:59:45,634 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [6:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [6:13]
+
+Location: asia-south1
+Job ID: 20f26880-9fbe-404d-8717-7cd6e3f66f1a
+
+2025-03-25 19:59:45,646 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:59:45,974 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: f93ec443-7c2c-40c1-8b63-23a8817c1f43
+
+2025-03-25 19:59:45,980 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+        
+2025-03-25 19:59:46,390 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: dc8392f0-3f0b-43ec-8bf6-e17feaf17097
+
+2025-03-25 19:59:46,390 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 19:59:46,746 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: 6263fd81-42fc-46fc-ae1c-e2546c5f33f5
+
+2025-03-25 19:59:57,498 - INFO - Dashboard Loaded
+2025-03-25 19:59:57,510 - INFO - Selected Dataset: News
+2025-03-25 19:59:57,518 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#yash%'  -- Adjust 'hashtags' to your column name if different
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 19:59:58,636 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [6:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [6:13]
+
+Location: asia-south1
+Job ID: 33177e44-f9b2-465f-b128-13d70d006dae
+
+2025-03-25 19:59:58,646 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 19:59:59,143 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: 9429ea27-30e3-43c9-9746-467f89f4bf11
+
+2025-03-25 19:59:59,146 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+        
+2025-03-25 19:59:59,556 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: e8d58a21-878a-4462-b146-b0296ddd97a6
+
+2025-03-25 19:59:59,556 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+        AND hashtags LIKE '%#yash%'  -- Adjust 'hashtags' to your column name if different
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 20:00:00,070 - ERROR - Query execution failed: 400 Unrecognized name: hashtags at [8:13]; reason: invalidQuery, location: query, message: Unrecognized name: hashtags at [8:13]
+
+Location: asia-south1
+Job ID: 2d6d6863-6fe8-431c-b8c2-196df95c279f
+
+2025-03-25 20:00:06,374 - INFO - Dashboard Loaded
+2025-03-25 20:00:06,374 - INFO - Selected Dataset: News
+2025-03-25 20:00:08,102 - INFO - Dashboard Loaded
+2025-03-25 20:00:08,102 - INFO - Selected Dataset: News
+2025-03-25 20:00:08,116 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+     LIMIT 10 OFFSET 0
+2025-03-25 20:00:08,769 - ERROR - Query execution failed: 400 Unrecognized name: title; Did you mean date? at [7:13]; reason: invalidQuery, location: query, message: Unrecognized name: title; Did you mean date? at [7:13]
+
+Location: asia-south1
+Job ID: 0d97dd83-8443-41ee-a6b4-05c5fed23723
+
+2025-03-25 20:00:08,777 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 20:00:09,179 - ERROR - Query execution failed: 400 Unrecognized name: title; Did you mean date? at [9:13]; reason: invalidQuery, location: query, message: Unrecognized name: title; Did you mean date? at [9:13]
+
+Location: asia-south1
+Job ID: 82734310-52c4-401a-a38e-ec18e9471e96
+
+2025-03-25 20:00:09,185 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+    )
+        
+2025-03-25 20:00:09,686 - ERROR - Query execution failed: 400 Unrecognized name: title; Did you mean date? at [9:13]; reason: invalidQuery, location: query, message: Unrecognized name: title; Did you mean date? at [9:13]
+
+Location: asia-south1
+Job ID: 78f7d32a-484b-41f2-a0cb-72e852d097de
+
+2025-03-25 20:00:09,690 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+          -- Adjust 'hashtags' to your column name if different
+        AND title LIKE '%yash%'
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 20:00:10,102 - ERROR - Query execution failed: 400 Unrecognized name: title; Did you mean date? at [9:13]; reason: invalidQuery, location: query, message: Unrecognized name: title; Did you mean date? at [9:13]
+
+Location: asia-south1
+Job ID: 6eb9a533-2ae0-47f7-a8d9-02233e1bd8fa
+
+2025-03-25 20:00:33,110 - INFO - Dashboard Loaded
+2025-03-25 20:00:33,113 - INFO - Selected Dataset: YouTube
+2025-03-25 20:00:37,899 - INFO - Dashboard Loaded
+2025-03-25 20:00:37,901 - INFO - Selected Dataset: YouTube
+2025-03-25 20:00:37,924 - INFO - Executing query: SELECT DISTINCT REGEXP_EXTRACT_ALL(tags, r'[^,]+') as tag FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`, UNNEST(SPLIT(tags, ', ')) as tags
+2025-03-25 20:00:53,980 - INFO - Dashboard Loaded
+2025-03-25 20:00:53,980 - INFO - Selected Dataset: News
+2025-03-25 20:01:02,555 - INFO - Dashboard Loaded
+2025-03-25 20:01:02,560 - INFO - Selected Dataset: YouTube
+2025-03-25 20:01:11,154 - INFO - Dashboard Loaded
+2025-03-25 20:01:11,155 - INFO - Selected Dataset: YouTube
+2025-03-25 20:01:14,083 - INFO - Dashboard Loaded
+2025-03-25 20:01:14,084 - INFO - Selected Dataset: YouTube
+2025-03-25 20:06:52,202 - INFO - Dashboard Loaded
+2025-03-25 20:06:52,206 - INFO - Selected Dataset: YouTube
+2025-03-25 20:06:54,737 - INFO - Dashboard Loaded
+2025-03-25 20:06:54,737 - INFO - Selected Dataset: News
+2025-03-25 20:07:00,741 - INFO - Dashboard Loaded
+2025-03-25 20:07:00,749 - INFO - Selected Dataset: News
+2025-03-25 20:07:03,963 - INFO - Dashboard Loaded
+2025-03-25 20:07:03,965 - INFO - Selected Dataset: News
+2025-03-25 20:07:06,567 - INFO - Dashboard Loaded
+2025-03-25 20:07:06,567 - INFO - Selected Dataset: News
+2025-03-25 20:07:10,125 - INFO - Dashboard Loaded
+2025-03-25 20:07:10,125 - INFO - Selected Dataset: News
+2025-03-25 20:07:33,226 - INFO - Dashboard Loaded
+2025-03-25 20:07:33,234 - INFO - Selected Dataset: News
+2025-03-25 20:07:33,320 - INFO - Dashboard Loaded
+2025-03-25 20:07:33,320 - INFO - Selected Dataset: News
+2025-03-25 20:07:34,983 - INFO - Dashboard Loaded
+2025-03-25 20:07:34,983 - INFO - Selected Dataset: News
+2025-03-25 20:07:35,056 - INFO - Dashboard Loaded
+2025-03-25 20:07:35,056 - INFO - Selected Dataset: News
+2025-03-25 20:08:04,922 - INFO - Dashboard Loaded
+2025-03-25 20:08:04,923 - INFO - Selected Dataset: YouTube
+2025-03-25 20:08:04,926 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 20:08:07,454 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 20:08:09,177 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 20:08:10,909 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 20:08:13,701 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+        
+2025-03-25 20:08:15,387 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:19:34,567 - INFO - Dashboard Loaded
+2025-03-25 22:19:34,576 - INFO - Selected Dataset: YouTube
+2025-03-25 22:19:34,579 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 22:19:39,863 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 22:19:41,732 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:19:44,091 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:19:46,276 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+        
+2025-03-25 22:19:47,855 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:21:12,669 - INFO - Dashboard Loaded
+2025-03-25 22:21:12,669 - INFO - Selected Dataset: YouTube
+2025-03-25 22:21:12,679 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:21:14,809 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:21:16,774 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+        
+2025-03-25 22:21:17,836 - INFO - Dashboard Loaded
+2025-03-25 22:21:17,838 - INFO - Selected Dataset: YouTube
+2025-03-25 22:21:17,846 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:21:19,937 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:21:21,613 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+        
+2025-03-25 22:21:22,967 - INFO - Dashboard Loaded
+2025-03-25 22:21:22,967 - INFO - Selected Dataset: YouTube
+2025-03-25 22:21:22,973 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:21:24,831 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:21:26,676 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+    )
+        
+2025-03-25 22:21:28,021 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:24:33,353 - INFO - Dashboard Loaded
+2025-03-25 22:24:33,355 - INFO - Selected Dataset: YouTube
+2025-03-25 22:24:33,360 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:24:35,757 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:24:37,498 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+    )
+        
+2025-03-25 22:24:39,202 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:24:40,435 - INFO - Dashboard Loaded
+2025-03-25 22:24:40,436 - INFO - Selected Dataset: YouTube
+2025-03-25 22:24:40,443 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:24:42,993 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:24:44,778 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+    )
+        
+2025-03-25 22:24:46,307 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:24:46,327 - INFO - Dashboard Loaded
+2025-03-25 22:24:46,328 - INFO - Selected Dataset: YouTube
+2025-03-25 22:24:46,336 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:24:48,114 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:24:49,867 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+    )
+        
+2025-03-25 22:24:51,636 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:24:52,951 - INFO - Dashboard Loaded
+2025-03-25 22:24:52,953 - INFO - Selected Dataset: YouTube
+2025-03-25 22:24:52,960 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:24:55,254 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:24:56,960 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+    )
+        
+2025-03-25 22:24:58,547 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:25:28,365 - INFO - Dashboard Loaded
+2025-03-25 22:25:28,367 - INFO - Selected Dataset: YouTube
+2025-03-25 22:25:28,374 - INFO - Executing query: SELECT DISTINCT REGEXP_EXTRACT_ALL(tags, r'[^,]+') as tag FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`, UNNEST(SPLIT(tags, ', ')) as tags
+2025-03-25 22:25:33,264 - INFO - Dashboard Loaded
+2025-03-25 22:25:33,265 - INFO - Selected Dataset: News
+2025-03-25 22:25:33,266 - INFO - Executing query: SELECT DISTINCT category FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 22:25:35,282 - INFO - Executing query: SELECT MIN(date) as min_date, MAX(date) as max_date FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 22:25:36,982 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:25:38,431 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 22:25:40,053 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+        
+2025-03-25 22:25:41,713 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 22:25:51,133 - INFO - Dashboard Loaded
+2025-03-25 22:25:51,134 - INFO - Selected Dataset: News
+2025-03-25 22:29:15,769 - INFO - Dashboard Loaded
+2025-03-25 22:29:15,769 - INFO - Selected Dataset: News
+2025-03-25 22:29:15,782 - INFO - Executing query: 
+                SELECT category, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY category
+                ORDER BY article_count DESC
+            
+2025-03-25 22:29:23,259 - INFO - Dashboard Loaded
+2025-03-25 22:29:23,259 - INFO - Selected Dataset: News
+2025-03-25 22:29:23,274 - INFO - Executing query: 
+                SELECT source, COUNT(*) as count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY source
+                ORDER BY count DESC
+                LIMIT 10
+            
+2025-03-25 22:29:23,833 - ERROR - Error executing query: 400 Unrecognized name: source at [2:24]; reason: invalidQuery, location: query, message: Unrecognized name: source at [2:24]
+
+Location: asia-south1
+Job ID: a5110d0b-fa37-402e-9106-e56ab04efdf7
+
+2025-03-25 22:30:07,108 - INFO - Dashboard Loaded
+2025-03-25 22:30:07,108 - INFO - Selected Dataset: YouTube
+2025-03-25 22:30:07,108 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 22:30:09,197 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 22:30:10,729 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:30:12,046 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 22:30:13,990 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+        
+2025-03-25 22:30:15,548 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 22:32:14,425 - INFO - Dashboard Loaded
+2025-03-25 22:32:14,426 - INFO - Selected Dataset: News
+2025-03-25 22:32:14,428 - INFO - Executing query: SELECT DISTINCT category FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 22:32:16,098 - INFO - Executing query: SELECT MIN(date) as min_date, MAX(date) as max_date FROM `media-content-analytics-454110.News_Dataset.News`
+2025-03-25 22:32:17,606 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 22:32:19,175 - INFO - Executing query: 
+                SELECT DATE(date) as date, COUNT(*) as article_count
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+                GROUP BY DATE(date)
+                ORDER BY date
+            
+2025-03-25 22:32:21,088 - INFO - Executing query: 
+            SELECT COUNT(*) as total_articles
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+        
+2025-03-25 22:32:22,619 - INFO - Executing query: 
+            SELECT category, COUNT(*) as article_count
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.News`
+        -- Partitioning by date to optimize date-based queries
+        -- Clustering by category to group related category data together
+        WHERE date BETWEEN '2012-01-28' AND '2022-09-23'
+        
+    )
+            GROUP BY category
+            ORDER BY article_count DESC
+            LIMIT 1
+        
+2025-03-25 22:49:44,148 - INFO - Dashboard Loaded
+2025-03-25 22:49:44,155 - INFO - Selected Dataset: YouTube
+2025-03-25 23:01:52,218 - INFO - Dashboard Loaded
+2025-03-25 23:01:52,225 - INFO - Selected Dataset: YouTube
+2025-03-25 23:02:02,011 - INFO - Dashboard Loaded
+2025-03-25 23:02:02,012 - INFO - Selected Dataset: YouTube
+2025-03-25 23:02:02,019 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:02:04,105 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:02:05,911 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+        
+2025-03-25 23:02:07,371 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV9 Telugu'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:02:18,328 - INFO - Dashboard Loaded
+2025-03-25 23:02:18,330 - INFO - Selected Dataset: YouTube
+2025-03-25 23:02:18,337 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:02:20,360 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:02:22,246 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+        
+2025-03-25 23:02:23,755 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'NTV Telugu'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:02:35,202 - INFO - Dashboard Loaded
+2025-03-25 23:02:35,204 - INFO - Selected Dataset: YouTube
+2025-03-25 23:02:35,213 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:02:37,227 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:02:39,222 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+    )
+        
+2025-03-25 23:02:40,670 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'TV5 News'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:02:47,136 - INFO - Dashboard Loaded
+2025-03-25 23:02:47,137 - INFO - Selected Dataset: YouTube
+2025-03-25 23:02:47,144 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:02:49,070 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:02:50,856 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+    )
+        
+2025-03-25 23:02:52,340 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'ABN Andhra Jyothi'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:02:58,338 - INFO - Dashboard Loaded
+2025-03-25 23:02:58,339 - INFO - Selected Dataset: YouTube
+2025-03-25 23:02:58,345 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:03:00,309 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:03:02,088 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+    )
+        
+2025-03-25 23:03:03,515 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'Sakshi TV'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:03:25,315 - INFO - Dashboard Loaded
+2025-03-25 23:03:25,316 - INFO - Selected Dataset: YouTube
+2025-03-25 23:03:25,321 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:03:27,235 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:03:28,952 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+    )
+        
+2025-03-25 23:03:30,433 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'V6 News'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:03:39,870 - INFO - Dashboard Loaded
+2025-03-25 23:03:39,872 - INFO - Selected Dataset: YouTube
+2025-03-25 23:03:43,632 - INFO - Dashboard Loaded
+2025-03-25 23:03:43,634 - INFO - Selected Dataset: YouTube
+2025-03-25 23:03:43,640 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:03:45,584 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:03:47,395 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+    )
+        
+2025-03-25 23:03:48,798 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2018-03-31' AND '2025-03-20'
+        AND channel_name = 'T News'
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:04:14,365 - INFO - Dashboard Loaded
+2025-03-25 23:04:14,366 - INFO - Selected Dataset: YouTube
+2025-03-25 23:08:32,343 - INFO - Dashboard Loaded
+2025-03-25 23:08:32,343 - INFO - Selected Dataset: YouTube
+2025-03-25 23:08:32,346 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:08:34,572 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:08:36,114 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:08:37,667 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:08:39,756 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+        
+2025-03-25 23:08:41,247 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        
+2025-03-25 23:16:24,209 - INFO - Dashboard Loaded
+2025-03-25 23:16:24,209 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:16:26,983 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:16:28,656 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:16:30,143 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY channel_name ORDER BY total_views DESC
+2025-03-25 23:16:32,396 - INFO - Executing query: SELECT COUNT(*) as total_videos, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+2025-03-25 23:16:34,137 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY channel_name ORDER BY total_views DESC LIMIT 1
+2025-03-25 23:23:35,363 - INFO - Dashboard Loaded
+2025-03-25 23:23:35,366 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:23:38,154 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:23:39,717 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:23:41,265 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY channel_name ORDER BY total_views DESC
+2025-03-25 23:23:43,172 - INFO - Executing query: SELECT COUNT(*) as total_videos, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+2025-03-25 23:23:44,639 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY channel_name ORDER BY total_views DESC LIMIT 1
+2025-03-25 23:23:57,060 - INFO - Dashboard Loaded
+2025-03-25 23:24:09,199 - INFO - Dashboard Loaded
+2025-03-25 23:24:09,213 - INFO - Executing query: SELECT DATE(publish_time) as date, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY DATE(publish_time) ORDER BY date
+2025-03-25 23:24:16,339 - INFO - Dashboard Loaded
+2025-03-25 23:24:16,352 - INFO - Executing query: SELECT channel_name, AVG(subscribers_count) as avg_subscribers FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY channel_name
+2025-03-25 23:24:24,559 - INFO - Dashboard Loaded
+2025-03-25 23:24:24,579 - INFO - Executing query: SELECT channel_name, COUNT(*) as count FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY channel_name ORDER BY count DESC LIMIT 10
+2025-03-25 23:24:31,146 - INFO - Dashboard Loaded
+2025-03-25 23:24:31,163 - INFO - Executing query: SELECT views, likes FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+2025-03-25 23:24:38,624 - INFO - Dashboard Loaded
+2025-03-25 23:24:38,641 - INFO - Executing query: SELECT DATE(publish_time) as date, channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    ) GROUP BY DATE(publish_time), channel_name ORDER BY date
+2025-03-25 23:25:58,790 - INFO - Dashboard Loaded
+2025-03-25 23:26:19,736 - INFO - Dashboard Loaded
+2025-03-25 23:26:22,217 - INFO - Dashboard Loaded
+2025-03-25 23:26:22,224 - INFO - Executing query: SELECT DISTINCT REGEXP_EXTRACT_ALL(tags, r'[^,]+') as tag FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`, UNNEST(SPLIT(tags, ', ')) as tags
+2025-03-25 23:26:35,884 - INFO - Dashboard Loaded
+2025-03-25 23:26:35,987 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Telugu entertainment%'
+     LIMIT 10 OFFSET 0
+2025-03-25 23:26:38,005 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Telugu entertainment%'
+    ) GROUP BY channel_name ORDER BY total_views DESC
+2025-03-25 23:26:39,878 - INFO - Executing query: SELECT COUNT(*) as total_videos, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Telugu entertainment%'
+    )
+2025-03-25 23:26:41,486 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Telugu entertainment%'
+    ) GROUP BY channel_name ORDER BY total_views DESC LIMIT 1
+2025-03-25 23:26:45,878 - INFO - Dashboard Loaded
+2025-03-25 23:26:45,949 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Pawan Kalyan Bro Teaser Update%'
+     LIMIT 10 OFFSET 0
+2025-03-25 23:26:48,463 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Pawan Kalyan Bro Teaser Update%'
+    ) GROUP BY channel_name ORDER BY total_views DESC
+2025-03-25 23:26:50,256 - INFO - Executing query: SELECT COUNT(*) as total_videos, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Pawan Kalyan Bro Teaser Update%'
+    )
+2025-03-25 23:26:51,826 - INFO - Executing query: SELECT channel_name, SUM(views) as total_views FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        AND tags LIKE '%Pawan Kalyan Bro Teaser Update%'
+    ) GROUP BY channel_name ORDER BY total_views DESC LIMIT 1
+2025-03-25 23:27:00,568 - INFO - Dashboard Loaded
+2025-03-25 23:27:06,344 - INFO - Dashboard Loaded
+2025-03-25 23:32:11,601 - INFO - Dashboard Loaded
+2025-03-25 23:32:11,603 - INFO - Selected Dataset: YouTube
+2025-03-25 23:32:11,603 - INFO - Executing query: SELECT DISTINCT channel_name FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:32:14,017 - INFO - Executing query: SELECT MIN(publish_time) as min_date, MAX(publish_time) as max_date FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+2025-03-25 23:32:15,456 - INFO - Executing query: 
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+     LIMIT 10 OFFSET 0
+2025-03-25 23:32:16,990 - INFO - Executing query: 
+                SELECT channel_name, SUM(views) as total_views
+                FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+                GROUP BY channel_name
+                ORDER BY total_views DESC
+            
+2025-03-25 23:32:18,879 - INFO - Executing query: 
+            SELECT COUNT(*) as total_videos, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+        
+2025-03-25 23:32:20,379 - INFO - Executing query: 
+            SELECT channel_name, SUM(views) as total_views
+            FROM (
+        SELECT *
+        FROM `media-content-analytics-454110.News_Dataset.youtubeapi_data`
+        -- Partitioning by publish_time (date) to optimize date-based queries
+        -- Clustering by channel_name to group related channel data together
+        WHERE publish_time BETWEEN '2017-11-16' AND '2025-03-25'
+        
+        
+    )
+            GROUP BY channel_name
+            ORDER BY total_views DESC
+            LIMIT 1
+        

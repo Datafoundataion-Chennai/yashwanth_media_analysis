@@ -5,7 +5,7 @@ import time
 from google.cloud import bigquery
 from google.api_core.exceptions import GoogleAPICallError, NotFound, BadRequest
 
-API_KEY = "add your own youtube api key"
+API_KEY = "AIzaSyA7bXGBm6kgBVU0vjLNFtsb7adDGeYfTro"
 
 CHANNELS = {
     "TV9 Telugu": "UCfaww9Q8C_-EaM0sXI8o-fA",
@@ -17,7 +17,7 @@ CHANNELS = {
     "T News": "UCu6edg8_eu3-A8ylgaWereA",
     "10TV News Telugu": "UCfymZbh17_3T_UhgjkQ9fRQ",
     "99TV": "UCl5YgCiwSRVOiC2Nd1P9v1A",
-    "99TV Telugu": "UCl5YgCiwSRVOiC2Nd1P9v1A"
+    "ETV Andhra Pradesh": "UCJi8M0hRKjz8SLPvJKEVTOg"
 }
 
 def get_channel_statistics(channel_id):
