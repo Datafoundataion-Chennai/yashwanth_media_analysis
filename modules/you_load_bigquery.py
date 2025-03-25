@@ -5,7 +5,7 @@ import time
 from google.cloud import bigquery
 from google.api_core.exceptions import GoogleAPICallError, NotFound, BadRequest
 
-API_KEY = "AIzaSyA7bXGBm6kgBVU0vjLNFtsb7adDGeYfTro"
+API_KEY = "add your own api key"
 
 CHANNELS = {
     "TV9 Telugu": "UCfaww9Q8C_-EaM0sXI8o-fA",
